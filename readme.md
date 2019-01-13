@@ -12,6 +12,8 @@ Dashboard for Doctors
 Dashboard for Practitioners.   
   
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+See the site live at https://cliniq.ml
   
 WORKFLOW  
   
@@ -49,3 +51,9 @@ SMS Chatbot for Booking
   
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
+## Building
+
+go to ./website/cliniq
+```
+    npm run build
+```
